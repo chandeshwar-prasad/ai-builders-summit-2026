@@ -1,4 +1,5 @@
-# AI Builders Summit 2026 — Invitation Web App
+# AI Builders Summit 2026
+Interactive AI Summit Invitation & Registration Platform
 
 An immersive, premium, single-page invitation web application built for the pseudo AI Builders Summit 2026. This app is designed with a dark-mode space aesthetic, featuring smooth animations, personalization, and a ticket pass generator.
 
