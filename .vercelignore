@@ -1,5 +1,5 @@
 # Ignore raw assets folder in root
-Assets/
+/Assets/
 
 # Ignore text files and local docs
 *.md
