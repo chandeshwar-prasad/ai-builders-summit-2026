@@ -1,0 +1,13 @@
+# Ignore raw assets folder in root
+Assets/
+
+# Ignore text files and local docs
+*.md
+*.txt
+
+# Build folders & cache
+.next/
+out/
+node_modules/
+.git/
+.vercel/

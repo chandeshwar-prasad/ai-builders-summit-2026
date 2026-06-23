@@ -1,0 +1,724 @@
+# AI Builders Summit 2026
+
+## Product Requirements Document (PRD)
+
+Version: 1.0
+Project Type: Premium Event & Conference Website
+Platform: Responsive Web Application
+Primary Goal: Deliver a world-class conference experience through a visually immersive, animated, and highly engaging one-page website.
+
+---
+
+# 1. Executive Summary
+
+AI Builders Summit 2026 is a premium two-day technology conference focused on Artificial Intelligence, Data Analytics, Automation, and Generative AI.
+
+The website will not be a traditional conference website. Instead, it will be an immersive digital experience that combines cinematic visuals, advanced motion design, storytelling, personalization, and seamless registration.
+
+The experience should evoke the feeling of attending a world-class event similar to major product launches, technology summits, and innovation conferences.
+
+The website will serve as:
+
+* Event showcase
+* Registration portal
+* Speaker showcase
+* Schedule explorer
+* Brand-building experience
+
+---
+
+# 2. Product Vision
+
+Create the most memorable conference landing page experience possible while maintaining exceptional performance, accessibility, and usability.
+
+The experience should feel:
+
+* Premium
+* Elegant
+* Futuristic
+* Intelligent
+* Interactive
+* Smooth
+* Modern
+
+Users should feel excitement and anticipation from the moment they land on the page.
+
+The website should rely on storytelling rather than traditional navigation.
+
+---
+
+# 3. Business Goals
+
+### Primary Goals
+
+* Increase event registrations
+* Build anticipation around the conference
+* Showcase speakers
+* Communicate event value
+* Create a shareable experience
+
+### Secondary Goals
+
+* Demonstrate modern web capabilities
+* Build conference brand awareness
+* Encourage social sharing
+* Establish credibility
+
+---
+
+# 4. Target Audience
+
+### Data Analysts
+
+Interested in:
+
+* AI-powered analytics
+* Automation
+* Business intelligence
+
+### Data Scientists
+
+Interested in:
+
+* LLMs
+* Machine Learning
+* AI Infrastructure
+
+### AI Engineers
+
+Interested in:
+
+* Agents
+* RAG
+* AI Applications
+
+### Students
+
+Interested in:
+
+* Learning opportunities
+* Career growth
+* Networking
+
+### Business Professionals
+
+Interested in:
+
+* AI adoption
+* Productivity
+* Innovation
+
+---
+
+# 5. User Personas
+
+## Persona 1: Aspiring Analyst
+
+Age: 21-28
+
+Goals:
+
+* Learn AI skills
+* Meet professionals
+* Understand industry trends
+
+Pain Points:
+
+* Information overload
+* Unsure where to start
+
+---
+
+## Persona 2: Working Professional
+
+Age: 28-40
+
+Goals:
+
+* Stay competitive
+* Learn automation
+* Network with peers
+
+Pain Points:
+
+* Limited time
+* Need practical knowledge
+
+---
+
+## Persona 3: AI Builder
+
+Age: 24-45
+
+Goals:
+
+* Explore latest AI trends
+* Learn implementation techniques
+* Connect with industry leaders
+
+---
+
+# 6. User Journey
+
+## Step 1
+
+Visitor lands on homepage.
+
+## Step 2
+
+Fullscreen welcome modal appears.
+
+Prompt:
+
+"Welcome to AI Builders Summit 2026. What is your name?"
+
+## Step 3
+
+User enters name.
+
+System stores name in Local Storage.
+
+## Step 4
+
+Website personalizes selected content.
+
+Examples:
+
+* Welcome back, John
+* John, your AI journey starts here
+
+## Step 5
+
+User explores:
+
+* Hero
+* Story
+* Speakers
+* Schedule
+* Venue
+* Registration
+
+## Step 6
+
+User submits registration.
+
+## Step 7
+
+Confirmation message appears.
+
+---
+
+# 7. Information Architecture
+
+Single Page Experience
+
+1. Personalized Welcome Modal
+2. Hero Section
+3. Storytelling Section
+4. Audience Section
+5. Speakers Section
+6. Event Schedule
+7. Venue Experience
+8. Registration Section
+9. Contact Footer
+
+No traditional navigation menu.
+
+Optional floating progress indicator.
+
+---
+
+# 8. Event Information
+
+## Event Name
+
+AI Builders Summit 2026
+
+## Theme
+
+AI, Data Analytics, Automation and Generative AI
+
+## Date
+
+22–23 August 2026
+
+## Venue
+
+Virtual + Bengaluru, India
+
+## Registration Fee
+
+Free
+
+---
+
+# 9. Hero Section
+
+## Objective
+
+Create immediate excitement.
+
+## Content
+
+* Event Name
+* Event Theme
+* Date
+* Venue
+* Countdown Timer
+* Register CTA
+
+## Visual Requirements
+
+* Animated gradient background
+* Floating AI particles
+* Soft glowing effects
+* Modern typography
+* Motion-enhanced visuals
+
+---
+
+# 10. Storytelling Section
+
+Headline:
+
+"The Future Is Being Built Today"
+
+Content Themes:
+
+* Rise of AI
+* Democratization of AI
+* AI Builders Community
+* Industry Transformation
+
+Presentation:
+
+* Large typography
+* Animated reveals
+* Visual storytelling
+
+---
+
+# 11. Audience Section
+
+Target Groups:
+
+* Data Analysts
+* Data Scientists
+* AI Engineers
+* Students
+* Business Professionals
+
+Display Style:
+
+Interactive cards.
+
+Hover effects.
+
+Animated icons.
+
+---
+
+# 12. Speaker Showcase
+
+## Peter Pandey
+
+Role:
+AI Research Lead
+
+Topic:
+The Future of LLMs
+
+---
+
+## Hemanand V
+
+Role:
+Head of Analytics
+
+Topic:
+AI for Data Analysts
+
+---
+
+## John David
+
+Role:
+Founder, AI Labs
+
+Topic:
+Building AI Agents
+
+---
+
+## Eliza Grace
+
+Role:
+Automation Consultant
+
+Topic:
+Enterprise Automation
+
+### Requirements
+
+* Speaker image
+* Hover effects
+* Card animations
+* Smooth transitions
+* Mobile carousel support
+
+---
+
+# 13. Event Schedule
+
+## Day 1
+
+09:00 AM — Opening Keynote
+
+10:00 AM — Future of Generative AI
+
+11:30 AM — AI Agents in Business
+
+02:00 PM — Data Analytics with AI
+
+04:00 PM — Networking Session
+
+---
+
+## Day 2
+
+09:00 AM — Building AI Products
+
+11:00 AM — RAG Systems Workshop
+
+02:00 PM — Automation Masterclass
+
+04:00 PM — Closing Keynote
+
+### Design
+
+Interactive timeline.
+
+Animated reveal on scroll.
+
+Responsive layout.
+
+---
+
+# 14. Venue Experience
+
+Content:
+
+* Bengaluru visuals
+* Location information
+* Interactive map
+* Venue imagery
+
+Features:
+
+* Embedded Google Maps
+* Venue gallery
+* Parallax transitions
+
+---
+
+# 15. Registration Experience
+
+Fields:
+
+* Full Name
+* Email
+* Company
+* Job Title
+* Day Attending
+
+Options:
+
+* Day 1
+* Day 2
+* Both Days
+
+Validation:
+
+* Required field checks
+* Email validation
+* Accessible form states
+
+Current Version:
+
+Frontend only.
+
+Backend integration later.
+
+---
+
+# 16. Contact Section
+
+Email:
+
+[contact@aisummit2026.com](mailto:contact@aisummit2026.com)
+
+Design:
+
+Minimal.
+
+Elegant.
+
+Accessible.
+
+---
+
+# 17. Animation Requirements
+
+## Required
+
+* Smooth scrolling
+* Section reveal animations
+* Scroll-triggered effects
+* Floating particles
+* Gradient animations
+* Card interactions
+* Button micro-interactions
+* Text reveal animations
+
+## Animation Principles
+
+* Subtle
+* Smooth
+* Purposeful
+* Performance friendly
+
+Target:
+
+60 FPS
+
+---
+
+# 18. Design System
+
+## Theme
+
+Dark Theme
+
+## Colors
+
+Primary:
+Electric Blue
+
+Secondary:
+Violet
+
+Accent:
+Cyan
+
+Neutral:
+Dark Slate
+
+## Typography
+
+Headings:
+Space Grotesk
+
+Body:
+Inter
+
+## Design Language
+
+* Premium
+* Clean
+* Spacious
+* Modern
+
+---
+
+# 19. Recommended Technology Stack
+
+## Framework
+
+Next.js
+
+Reason:
+
+* Performance
+* SEO
+* Routing flexibility
+* Production readiness
+
+---
+
+## Styling
+
+Tailwind CSS
+
+Reason:
+
+* Rapid development
+* Design consistency
+
+---
+
+## Components
+
+shadcn/ui
+
+Reason:
+
+* Modern
+* Accessible
+* Beautiful defaults
+
+---
+
+## Animations
+
+Framer Motion
+
+GSAP (for advanced sequences)
+
+Lenis (smooth scrolling)
+
+---
+
+## Forms
+
+React Hook Form
+
+Zod
+
+---
+
+## Hosting
+
+Vercel
+
+---
+
+# 20. Performance Requirements
+
+Target Lighthouse Scores:
+
+Performance: 90+
+
+Accessibility: 95+
+
+SEO: 90+
+
+Best Practices: 95+
+
+Requirements:
+
+* Lazy-loaded images
+* Optimized assets
+* Code splitting
+* Minimal layout shift
+
+---
+
+# 21. Accessibility Requirements
+
+* Keyboard navigation
+* Focus states
+* Semantic HTML
+* WCAG compliance
+* Screen-reader support
+* Sufficient contrast ratios
+
+---
+
+# 22. Asset Requirements
+
+## Hero Background
+
+3840x2160
+
+Style:
+
+Futuristic AI conference environment.
+
+---
+
+## Speaker Images
+
+1200x1200
+
+Style:
+
+Professional conference portraits.
+
+---
+
+## Venue Images
+
+1920x1080
+
+Style:
+
+Premium technology event venue.
+
+---
+
+## Audience Icons
+
+512x512
+
+Style:
+
+Minimal modern iconography.
+
+---
+
+## AI Background Graphics
+
+4K resolution
+
+Style:
+
+Abstract neural networks, data flows, AI systems.
+
+---
+
+# 23. Future Enhancements
+
+Phase 2
+
+* Google Forms integration
+* Registration analytics
+* Email confirmations
+
+Phase 3
+
+* Ticket generation
+* QR codes
+* Session reminders
+
+Phase 4
+
+* AI session recommendations
+* Personalized agenda
+* Networking system
+
+---
+
+# 24. Success Metrics
+
+Business Metrics
+
+* Registration Conversion Rate
+* Time on Page
+* Scroll Completion Rate
+* Form Completion Rate
+
+Experience Metrics
+
+* Lighthouse Score
+* Accessibility Score
+* Mobile Performance
+
+Technical Metrics
+
+* First Contentful Paint
+* Largest Contentful Paint
+* Interaction to Next Paint
+
+Target:
+
+Premium conference experience comparable to top-tier technology event websites.

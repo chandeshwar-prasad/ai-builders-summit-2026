@@ -1,0 +1,19 @@
+Speaker 1
+Name: Peter Pandey
+Role: AI Research Lead
+Topic: The Future of LLMs
+
+Speaker 2
+Name: Hemanand V
+Role: Head of Analytics
+Topic: AI for Data Analysts
+
+Speaker 3
+Name: John David
+Role: Founder, AI Labs
+Topic: Building AI Agents
+
+Speaker 4
+Name: Eliza Grace
+Role: Automation Consultant
+Topic: Enterprise Automation

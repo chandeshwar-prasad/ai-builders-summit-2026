@@ -1,0 +1,37 @@
+Event Name: AI Builders Summit 2026
+
+Theme:
+AI, Data Analytics, Automation and Generative AI
+
+Date:
+22–23 August 2026
+
+Venue:
+Bengaluru International Convention Centre (BICC)
+Bengaluru, India
+
+Registration Fee:
+Free
+
+Target Audience:
+- Data Analysts
+- Data Scientists
+- AI Engineers
+- Students
+- Business Professionals
+
+Day 1 Schedule:
+09:00 AM - Opening Keynote
+10:00 AM - Future of Generative AI
+11:30 AM - AI Agents in Business
+02:00 PM - Data Analytics with AI
+04:00 PM - Networking Session
+
+Day 2 Schedule:
+09:00 AM - Building AI Products
+11:00 AM - RAG Systems Workshop
+02:00 PM - Automation Masterclass
+04:00 PM - Closing Keynote
+
+Contact:
+contact@aisummit2026.com

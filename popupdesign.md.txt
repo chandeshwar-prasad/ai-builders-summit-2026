@@ -1,0 +1,467 @@
+# AI Builders Summit 2026
+
+# Personalized Welcome Modal Design Specification
+
+Version: 1.0
+
+Purpose:
+Create a memorable first impression by greeting visitors with a premium, personalized onboarding experience before they enter the summit website.
+
+---
+
+# 1. Experience Goal
+
+The welcome modal should feel like entering an exclusive technology conference.
+
+It should create curiosity, anticipation, and personalization.
+
+The experience should feel inspired by:
+
+* Apple product launches
+* OpenAI experiences
+* Linear onboarding
+* Premium SaaS onboarding flows
+
+The modal should feel elegant, futuristic, and minimal.
+
+---
+
+# 2. Modal Behavior
+
+## First Visit
+
+When a visitor lands on the website:
+
+1. Entire page loads in the background.
+2. Background remains blurred.
+3. Welcome modal appears centered.
+4. User cannot interact with the page until completing the modal.
+
+---
+
+## Returning Visitor
+
+If a visitor name exists in Local Storage:
+
+Skip the input form.
+
+Show:
+
+"Welcome back, John."
+
+Display for 2 seconds.
+
+Then automatically transition into the website.
+
+---
+
+# 3. Layout Structure
+
+Full Screen Overlay
+
+Background:
+
+* Dark overlay
+* Blurred summit hero background
+* Animated particles
+
+Center Card:
+
+* Glassmorphism panel
+* Summit logo
+* Welcome message
+* Name input
+* Continue button
+
+---
+
+# 4. Visual Style
+
+Theme:
+
+Dark
+
+Premium
+
+Elegant
+
+Minimal
+
+Glassmorphism
+
+---
+
+Modal Card
+
+Width:
+
+Desktop:
+520px
+
+Tablet:
+460px
+
+Mobile:
+90% viewport width
+
+---
+
+Corner Radius
+
+24px
+
+---
+
+Background
+
+Glass Surface
+
+Opacity:
+
+8%
+
+Blur:
+
+20px
+
+Border:
+
+1px solid rgba(255,255,255,0.1)
+
+---
+
+Shadow
+
+Soft ambient glow.
+
+No harsh shadows.
+
+---
+
+# 5. Welcome Content
+
+Headline:
+
+Welcome to
+
+AI Builders Summit 2026
+
+---
+
+Subheadline:
+
+The future of AI, Analytics, Automation and Innovation begins here.
+
+---
+
+Input Prompt:
+
+What should we call you?
+
+---
+
+Placeholder Text:
+
+Enter your name
+
+---
+
+Button Text:
+
+Enter Summit
+
+---
+
+# 6. Personalization Logic
+
+Input Field:
+
+Required
+
+Minimum:
+
+2 characters
+
+Maximum:
+
+40 characters
+
+---
+
+On Submit
+
+Save name to Local Storage:
+
+visitorName
+
+Example:
+
+John
+
+---
+
+Available for later use throughout website.
+
+Examples:
+
+Welcome back, John.
+
+John, your AI journey starts here.
+
+See you at the summit, John.
+
+---
+
+# 7. Micro Interactions
+
+Input Focus
+
+Border glows softly.
+
+Accent color:
+
+Electric Blue
+
+---
+
+Button Hover
+
+Slight elevation
+
+Glow effect
+
+Scale:
+
+1.02
+
+---
+
+Button Press
+
+Scale:
+
+0.98
+
+---
+
+Card Entrance
+
+Fade In
+
+Translate Y:
+
+20px → 0px
+
+Duration:
+
+700ms
+
+---
+
+# 8. Success Transition
+
+After user submits name:
+
+1. Input disappears.
+2. Success message appears.
+
+Example:
+
+Welcome, John.
+
+Preparing your summit experience...
+
+---
+
+Animation
+
+Text fade-in.
+
+Particle intensity increases slightly.
+
+---
+
+After 1.5 seconds:
+
+Modal fades out.
+
+Website becomes active.
+
+---
+
+# 9. Motion Design
+
+Particles
+
+Slow floating motion.
+
+Duration:
+
+15–20 seconds.
+
+Infinite.
+
+---
+
+Background Gradient
+
+Subtle movement.
+
+Duration:
+
+20 seconds.
+
+Infinite.
+
+---
+
+Card Motion
+
+Smooth easing.
+
+No bounce effects.
+
+---
+
+Recommended easing:
+
+easeOutExpo
+
+---
+
+# 10. Mobile Experience
+
+Input width:
+
+100%
+
+Button width:
+
+100%
+
+Padding:
+
+24px
+
+Text centered.
+
+Keyboard should not obstruct content.
+
+---
+
+# 11. Accessibility
+
+Focus Trap
+
+Enabled
+
+---
+
+Keyboard Support
+
+Tab navigation
+
+Enter key submits form
+
+Escape disabled
+
+---
+
+Screen Reader Labels
+
+Required
+
+---
+
+Contrast
+
+WCAG AA compliant
+
+---
+
+# 12. Reduced Motion Mode
+
+If user prefers reduced motion:
+
+Disable:
+
+* Particle movement
+* Floating animations
+* Large transitions
+
+Keep:
+
+* Simple fades
+
+---
+
+# 13. Technical Implementation Notes
+
+Storage:
+
+Local Storage
+
+Key:
+
+visitorName
+
+---
+
+Recommended Libraries
+
+Framer Motion
+
+GSAP (optional)
+
+---
+
+State Management
+
+React State
+
+No backend required.
+
+---
+
+# 14. Wireframe
+
+---
+
+AI Builders Summit 2026
+
+The future of AI, Analytics,
+Automation and Innovation
+begins here.
+
+[ Enter your name ]
+
+[ Enter Summit ]
+
+---
+
+---
+
+# 15. Success State Wireframe
+
+---
+
+Welcome, John.
+
+Preparing your summit experience...
+
+---
+
+---
+
+# Final Design Objective
+
+The modal should feel like a premium digital invitation to an exclusive AI conference.
+
+Visitors should immediately feel:
+
+* Curious
+* Welcomed
+* Personalized
+* Excited
+
+before entering the main website experience.

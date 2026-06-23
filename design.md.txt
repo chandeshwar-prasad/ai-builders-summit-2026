@@ -1,0 +1,761 @@
+# AI Builders Summit 2026
+
+# Design Specification
+
+Version: 1.0
+
+---
+
+# 1. Design Philosophy
+
+AI Builders Summit 2026 should feel like a premium technology product launch rather than a conventional conference website.
+
+The experience should combine:
+
+* Apple's visual polish
+* OpenAI's elegance
+* Stripe's storytelling
+* Linear's precision
+* Vercel's minimalism
+
+Design Principles:
+
+* Minimal but not empty
+* Futuristic but not flashy
+* Animated but not distracting
+* Premium but approachable
+* Mobile-first
+* Performance-conscious
+
+The website should guide users through a narrative journey rather than a collection of sections.
+
+---
+
+# 2. Color System
+
+## Primary Colors
+
+Deep Space Black
+
+```css
+#050816
+```
+
+Charcoal
+
+```css
+#111827
+```
+
+Midnight Blue
+
+```css
+#0F172A
+```
+
+---
+
+## Accent Colors
+
+Electric Blue
+
+```css
+#3B82F6
+```
+
+Violet
+
+```css
+#8B5CF6
+```
+
+Cyan
+
+```css
+#22D3EE
+```
+
+---
+
+## Supporting Colors
+
+Soft White
+
+```css
+#F8FAFC
+```
+
+Muted Gray
+
+```css
+#94A3B8
+```
+
+Border Gray
+
+```css
+#1E293B
+```
+
+---
+
+# 3. Typography System
+
+## Heading Font
+
+Space Grotesk
+
+Weights:
+
+* 500
+* 600
+* 700
+
+Usage:
+
+* Hero Headlines
+* Section Titles
+* Speaker Names
+
+---
+
+## Body Font
+
+Inter
+
+Weights:
+
+* 400
+* 500
+* 600
+
+Usage:
+
+* Paragraphs
+* Form Labels
+* Navigation Indicators
+
+---
+
+## Typography Scale
+
+### Mobile
+
+Hero:
+48px
+
+Section Heading:
+32px
+
+Card Heading:
+20px
+
+Body:
+16px
+
+Small Text:
+14px
+
+---
+
+### Desktop
+
+Hero:
+96px
+
+Section Heading:
+56px
+
+Card Heading:
+24px
+
+Body:
+18px
+
+Small Text:
+14px
+
+---
+
+# 4. Layout System
+
+Maximum Content Width
+
+```css
+1280px
+```
+
+Container Padding
+
+Desktop:
+
+```css
+80px
+```
+
+Tablet:
+
+```css
+40px
+```
+
+Mobile:
+
+```css
+24px
+```
+
+---
+
+# Breakpoints
+
+Mobile
+
+```css
+0–767px
+```
+
+Tablet
+
+```css
+768–1023px
+```
+
+Desktop
+
+```css
+1024px+
+```
+
+---
+
+# Section Spacing
+
+Desktop
+
+```css
+160px
+```
+
+Mobile
+
+```css
+96px
+```
+
+---
+
+# 5. Hero Section
+
+## Layout
+
+Full viewport height
+
+100vh minimum.
+
+---
+
+## Structure
+
+Top Layer
+
+Animated particle field
+
+Middle Layer
+
+Gradient visual effects
+
+Foreground
+
+Headline
+Tagline
+Date
+Venue
+CTA
+Countdown
+
+---
+
+## Wireframe
+
+[ AI Background ]
+
+AI Builders Summit 2026
+
+Build • Learn • Innovate
+
+22–23 August 2026
+
+Virtual + Bengaluru
+
+[ Register Now ]
+
+[ Countdown ]
+
+---
+
+## Personalization Placement
+
+After entering name:
+
+"Welcome back, John."
+
+Displayed beneath hero title.
+
+Subtle animation.
+
+---
+
+# 6. Animated Background System
+
+Components:
+
+* Floating particles
+* Soft gradients
+* Neural network lines
+* Glow effects
+
+---
+
+## Motion Rules
+
+Particles:
+
+Slow floating motion
+
+Duration:
+
+15–25 seconds
+
+Infinite loop
+
+---
+
+Gradient Motion:
+
+20-second cycles
+
+Very subtle movement
+
+---
+
+Neural Network Lines:
+
+Occasional pulse animation
+
+No constant movement
+
+---
+
+# 7. Storytelling Section
+
+Headline:
+
+"The Future Is Being Built Today"
+
+---
+
+Layout
+
+Large statement
+
+Supporting visual
+
+Minimal text
+
+---
+
+Animation
+
+Fade-up reveal
+
+Text stagger effect
+
+Parallax image movement
+
+---
+
+# 8. Audience Section
+
+Cards:
+
+5 cards
+
+Desktop:
+
+5-column layout
+
+Tablet:
+
+2-column layout
+
+Mobile:
+
+Horizontal carousel
+
+---
+
+Card Style
+
+Glass surface
+
+Rounded corners
+
+Subtle glow
+
+Hover elevation
+
+---
+
+# 9. Speaker Section
+
+Card Size
+
+Desktop:
+
+320 x 420 px
+
+---
+
+Structure
+
+Photo
+
+Name
+
+Role
+
+Topic
+
+CTA
+
+---
+
+Hover State
+
+Image zoom
+
+Gradient border glow
+
+Lift animation
+
+---
+
+Mobile
+
+Swipeable carousel
+
+Snap scrolling
+
+---
+
+# 10. Event Schedule
+
+Desktop
+
+Vertical center timeline
+
+Day 1 left
+
+Day 2 right
+
+---
+
+Mobile
+
+Accordion timeline
+
+Expandable sessions
+
+---
+
+Animation
+
+Timeline draws while scrolling
+
+Session cards reveal progressively
+
+---
+
+# 11. Venue Section
+
+Layout
+
+2-column desktop
+
+Image left
+
+Content right
+
+---
+
+Content
+
+Venue Name
+
+Description
+
+Map Preview
+
+Directions CTA
+
+---
+
+Animation
+
+Image parallax
+
+Map fade-in
+
+---
+
+# 12. Registration Section
+
+Container
+
+Glass card
+
+Centered
+
+Maximum width:
+
+700px
+
+---
+
+Inputs
+
+Height:
+
+56px
+
+Rounded:
+
+16px
+
+---
+
+States
+
+Default
+
+Focus
+
+Error
+
+Success
+
+---
+
+Submit Button
+
+Gradient background
+
+Micro interaction
+
+Loading state
+
+Success animation
+
+---
+
+# 13. Footer
+
+Minimal layout
+
+Conference logo
+
+Contact
+
+Social links
+
+Copyright
+
+---
+
+# 14. Motion Design System
+
+Page Load
+
+Fade in
+
+800ms
+
+---
+
+Section Reveal
+
+Fade + translate
+
+Duration:
+
+600ms
+
+---
+
+Hover
+
+Scale:
+
+1.03
+
+Duration:
+
+200ms
+
+---
+
+Buttons
+
+Press animation
+
+Scale:
+
+0.98
+
+---
+
+# 15. Glassmorphism Rules
+
+Use Only On:
+
+* Speaker cards
+* Registration card
+* Modal
+* Timeline cards
+
+Blur
+
+```css
+backdrop-filter: blur(16px)
+```
+
+Opacity
+
+```css
+rgba(255,255,255,0.08)
+```
+
+---
+
+# 16. Mobile Experience
+
+Hero
+
+Stack content vertically
+
+Center aligned
+
+---
+
+Speakers
+
+Horizontal swipe carousel
+
+---
+
+Timeline
+
+Accordion layout
+
+---
+
+Registration
+
+Single-column form
+
+Large touch targets
+
+---
+
+# 17. Accessibility
+
+Minimum contrast ratio:
+
+4.5:1
+
+---
+
+Keyboard navigation:
+
+Required
+
+---
+
+Reduced motion mode:
+
+Supported
+
+---
+
+Visible focus states:
+
+Required
+
+---
+
+# 18. Asset Placement Guide
+
+Hero Background
+
+3840x2160
+
+Location:
+
+Hero section
+
+---
+
+Speaker Photos
+
+1200x1200
+
+Location:
+
+Speaker cards
+
+---
+
+Venue Images
+
+1920x1080
+
+Location:
+
+Venue section
+
+---
+
+AI Graphics
+
+4K
+
+Location:
+
+Background overlays
+
+---
+
+Audience Icons
+
+512x512
+
+Location:
+
+Audience cards
+
+---
+
+Registration Illustration
+
+1600x900
+
+Location:
+
+Registration section
+
+---
+
+# Final Outcome
+
+The completed experience should feel like a premium AI conference launch page with cinematic storytelling, modern motion design, elegant personalization, and exceptional responsiveness across all devices.
